@@ -59,8 +59,8 @@
      ```
      zoom
      ```
-     
-       
+     <h2>Παραδοτέο 2</h2>
+       - [__Final Report (SW)__](https://manolis-tasiopoulos.github.io/FinalReportSW/)
 
 
 
